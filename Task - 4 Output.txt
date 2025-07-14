@@ -1,0 +1,8 @@
+Time	Input	Output
+20	  1	    0
+30	  2	    1
+40	  3	    4
+50	  4	   10
+60	  5	   20
+70	  6	   30
+testbench.sv:39: $finish called at 70 (1s)
